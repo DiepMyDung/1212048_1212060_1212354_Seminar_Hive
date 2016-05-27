@@ -1,10 +1,10 @@
-# SEMINAR - HIVE
+﻿# SEMINAR - HIVE
 
 
 
-Thành viên: **1212048 - Diệp Mỹ Dung
-1212060 - Nguyễn Tiến Dũng
-1212354 - Nguyễn Minh Tân**
+Thành viên: **1212048 - Diệp Mỹ Dung**
+**1212060 - Nguyễn Tiến Dũng**
+**1212354 - Nguyễn Minh Tân**
 
 
 ## Yêu cầu
@@ -12,9 +12,9 @@ Thành viên: **1212048 - Diệp Mỹ Dung
 Yêu cầu **GIT**:
 
 * [ ] Có sử dụng GIT.
-* [ ] Sử dụng GIT trên 1 branch.
+* [x] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
-* [x] Sử dụng GIT theo Feature Branch Workflow.
+* [ ] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **thiết kế**:
